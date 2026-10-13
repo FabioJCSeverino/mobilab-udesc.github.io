@@ -75,3 +75,14 @@
   website: null
   google_scholar: null
   orcid: null
+
+- name: Felipe Lenschow
+  role: Master's student
+  group: Master's students
+  image: /img/people/master-felipe-lenschow.jpeg
+  linkedin: https://www.linkedin.com/in/felipe-lenschow/
+  lattes: http://lattes.cnpq.br/8352060722399710
+  github: https://github.com/FelipeLenschow
+  website: null
+  google_scholar: null
+  orcid: https://orcid.org/0009-0008-9692-4887 
