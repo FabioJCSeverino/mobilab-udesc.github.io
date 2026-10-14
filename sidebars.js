@@ -76,6 +76,8 @@ const sidebars = {
           link: {type: 'doc', id: 'guides/ferramentas/index'},
           items: [
             {type: 'doc', id: 'guides/ferramentas/extensao-ssh', label: 'SSH extension'},
+            {type: 'doc', id: 'guides/ferramentas/pairdrop', label: 'PairDrop (copy and paste to VR)'},
+            {type: 'doc', id: 'guides/ferramentas/ssh-aliases', label: 'SSH aliases'},
           ],
         },
         {type: 'doc', id: 'mobilab/brand/index', label: 'Brand'},
