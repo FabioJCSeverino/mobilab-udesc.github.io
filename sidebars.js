@@ -57,6 +57,16 @@ const sidebars = {
         },
         {
           type: 'category',
+          label: 'Unitree H1-2',
+          link: {type: 'doc', id: 'guides/H1/index'},
+          items: [
+            {type: 'doc', id: 'guides/H1/ligando-desligando', label: 'Powering on and off'},
+            {type: 'doc', id: 'guides/H1/conectando-ethernet', label: 'Connecting via Ethernet'},
+            {type: 'doc', id: 'guides/H1/referencias', label: 'References'},
+          ],
+        },
+        {
+          type: 'category',
           label: 'NVIDIA Jetson',
           link: {type: 'doc', id: 'guides/nvidia/index'},
           items: [

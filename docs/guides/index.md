@@ -10,6 +10,7 @@ This section contains technical guides, setup procedures, and operational docume
 ## Available guides
 
 - [Unitree G1](/guides/G1): setup, connection, architecture, SDK, and teleoperation.
+- [Unitree H1-2](/guides/H1): components, powering on and off, Ethernet connection, and develop mode.
 - [NVIDIA Jetson](/guides/nvidia/): tutorials and references for NVIDIA Jetson platforms.
 
 ## Best practices
